@@ -1,0 +1,3 @@
+How can I solve R.layout.main cannot be ... - Stack Overflow
+android - Session 'app': Error Installing APK - Stack Overflow
+java - What is a NullPointerException, and how do I fix it ...
